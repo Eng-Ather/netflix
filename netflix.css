@@ -1,0 +1,24 @@
+.css-email-bar{
+   background-color:rgba(0, 0, 0, 0.9); 
+   outline: none;
+   border: none;
+   color: white;
+
+  
+}
+.hr{color: aqua;}
+.css-center-text{
+    margin-top: 150px;
+    text-align: center;
+}
+
+.css-2nd-card{
+    width: 100%;
+    background-color: black;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.coursor-pointer{
+    cursor: pointer;
+}
