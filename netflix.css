@@ -2,11 +2,11 @@
    background-color:rgba(0, 0, 0, 0.9); 
    outline: none;
    border: none;
-   color: white;
+   color: rgb(206, 37, 37);
 
   
 }
-.hr{color: aqua;}
+
 .css-center-text{
     margin-top: 150px;
     text-align: center;
