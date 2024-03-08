@@ -17,6 +17,17 @@
     background-color: black;
     padding-top: 100px;
     padding-bottom: 100px;
+
+}
+
+.css-3rd-card-border{
+    border-color: black;
+    outline-color: black;
+}
+
+.css-margin-top{
+    padding: 0px !important;
+    background-color: black;
 }
 
 .coursor-pointer{
