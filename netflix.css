@@ -33,3 +33,33 @@
 .coursor-pointer{
     cursor: pointer;
 }
+
+.css-4box{
+    border: 1px solid orangered;
+    color: white;
+    background-image: linear-gradient(to bottom, blue, navy);
+    width: 265px;
+    height: 250px;
+    margin: 10px;
+    padding:5px ;
+}
+.css-card{
+    display: flex;
+    flex-direction: row;
+    width: 80%; 
+    margin: 10%;
+}
+
+@media( max-width:1000px) 
+{
+    .css-card{
+        display: flex;
+        flex-direction: column !important;}
+    .css-4box{   
+        width:100%;
+        height: auto;
+    }
+
+   
+}
+ 
